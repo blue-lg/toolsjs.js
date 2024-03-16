@@ -1,3 +1,5 @@
+[EN](https://github.com/blue-lg/toolsjs.js/blob/main/README.md) | [中文](<https://github.com/blue-lg/toolsjs.js/blob/main/README(zh).md>)
+
 ToolsJs is a library dedicated to extending the capabilities of native JavaScript, aiming to address common data structures, methods, and frequently used algorithms that are not natively supported in JavaScript.
 
 ## Installation
