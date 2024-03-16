@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/blue-lg/toolsjs.js/issues"
   },
-  "homepage": "",
+  "homepage": "https://blue-lg.github.io/toolsjs.js/",
   "browserslist": [
     "> 1%",
     "last 2 versions"
