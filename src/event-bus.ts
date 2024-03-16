@@ -80,7 +80,7 @@ export class EventBus {
 
   #validSuccess(name: string, func: Func) {
     let error = '';
-    if (isString(name)) {
+    if (!isString(name)) {
       error = `名称不能为空`;
     } else if (!isFunction(func)) {
       error = `${name} 订阅不是一个函数`;
