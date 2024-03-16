@@ -62,8 +62,8 @@ priorityQueue.length;
 
 ## All Features
 
-[Click to view](https://junliangwangx.github.io/BootsJS/)
+[Click to view](https://blue-lg.github.io/toolsjs.js/)
 
 ## Contribute
 
-[Click to view](https://github.com/JunLiangWangX/BootsJS/blob/main/CONTRIBUTING.md)
+[Click to view](https://github.com/blue-lg/toolsjs.js/blob/main/CONTRIBUTING.md)

@@ -60,8 +60,8 @@ priorityQueue.length;
 
 ## 所有特性
 
-[点击查看](https://junliangwangx.github.io/BootsJS/)
+[点击查看](https://blue-lg.github.io/toolsjs.js/)
 
 ## 参与贡献
 
-[点击查看](<https://github.com/JunLiangWangX/BootsJS/blob/main/CONTRIBUTING(zh).md>)
+[点击查看](<https://github.com/blue-lg/toolsjs.js/blob/main/CONTRIBUTING(zh).md>)
