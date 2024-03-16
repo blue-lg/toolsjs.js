@@ -95,5 +95,3 @@ export class EventBus {
     return this.#events.has(name);
   }
 }
-
-export default EventBus;

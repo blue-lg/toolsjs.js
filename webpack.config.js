@@ -3,7 +3,7 @@ const findExportFiles = require('./utils/find-export-files');
 const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = {
-  mode: 'development',
+  mode: 'none',
   entry: {
     index: {
       import: './src/index.ts',
